@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-k31pyw.indcuan.sbs/sitemap.xml
